@@ -15,10 +15,9 @@ int main(void)
 
 	while (ch <= 'z')
 		putchar(ch);
-	if (ch == 'z')
-		ch = 'A';
-		while (ch <= 'Z')
-			putchar(ch);
+	ch = 'A';
+	while (ch <= 'Z')
+		putchar(ch);
 	putchar('\n');
 	return (0);
 }
