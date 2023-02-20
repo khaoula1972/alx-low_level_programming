@@ -11,14 +11,14 @@
 */
 int main(void)
 {
-	char ch = 'a'
+	char ch = 'a';
 
 	while (ch <= 'z')
-		putchar(ch)
+		putchar(ch);
 	if (ch == 'z')
-		ch = 'A'
+		ch = 'A';
 		while (ch <= 'Z')
-			putchar(ch)
+			putchar(ch);
 	putchar('\n');
 	return (0);
 }
