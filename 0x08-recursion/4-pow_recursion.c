@@ -3,7 +3,7 @@
  * _pow_recursion - recursive function to calculate power
  * @x: the given number
  * @y: the given number
- * Return 0
+ * Return: 0
  */
 int _pow_recursion(int x, int y)
 {
