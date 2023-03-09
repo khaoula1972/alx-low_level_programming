@@ -2,7 +2,7 @@
 /**
  * factorial - recursive function to calculate factorials
  * @n: the given number
- * Return 0
+ * Return: 0
  */
 int factorial(int n)
 {
