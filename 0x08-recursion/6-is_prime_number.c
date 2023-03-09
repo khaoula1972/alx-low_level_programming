@@ -24,7 +24,7 @@ int is_prime_number(int n)
 		return (0);
 	if (n < 0)
 	{
-		return (better_prime_function(- n, 1- n));
+		return (better_prime_function(-n, 1 - n));
 	}
 	else
 	{
