@@ -7,13 +7,12 @@
  */
 int better_sqrt_function(int n, int i)
 {
-        if (i * i > n)
-                return (-1);
-        if (i * i == n)
-                return (i);
-        return (better_sqrt_function(n, i + 1));
+	if (i * i > n)
+		return (-1);
+	if (i * i == n)
+		return (i);
+	return (better_sqrt_function(n, i + 1));
 }
-
 /**
  * _sqrt_recursion - function that returns the natural square
  * @n: a number
