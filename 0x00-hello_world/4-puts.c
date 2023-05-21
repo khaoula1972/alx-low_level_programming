@@ -1,5 +1,5 @@
 /**
- * main - Entry point 
+ * main - Entry point
  *
  * Description : 'a simple programm that prints a phrase.'
  *
