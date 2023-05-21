@@ -1,7 +1,7 @@
-/*
- * main - Entry point of the program
- * Description : 'a simple programm
- *		that prints a phrase.'
+/**
+ * main - Entry point 
+ *
+ * Description : 'a simple programm that prints a phrase.'
  *
  * Return: Always 0 (Success)
  */
