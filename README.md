@@ -1,1 +1,1 @@
-Here we are learning low level programming
+Here we are learning about functions, nestep loops in C programming language
