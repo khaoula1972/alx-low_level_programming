@@ -1,4 +1,4 @@
-#include "_putchar.c"
+#include "main.h"
 /**
  * print_alphabet - Entry point
  * Description : 'A program tobprint the alphabet'
