@@ -4,7 +4,7 @@
  * @a : an integer
  * @b : an integer
  * Description : 'Sum of two integers'
- * Return : the result
+ * Return: the result
  */
 int add(int a, int b)
 {
