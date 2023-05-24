@@ -30,8 +30,7 @@ void print_large_number(int number)
 		number = -number;
 	}
 	/* Convert the number to individual digits */
-	do
-	{
+	do {
 		digits[num_digits] = number % 10;
 		number /= 10;
 		num_digits++;
