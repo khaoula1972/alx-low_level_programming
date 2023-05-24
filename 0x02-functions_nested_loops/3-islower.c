@@ -3,7 +3,7 @@
  * _islower - Entry
  * @c : an integer
  * Description : 'A program that checks for lowercase character'
- * Return : 1 or 0
+ * Return: it's either 1 or 0
  */
 int _islower(int c)
 {
