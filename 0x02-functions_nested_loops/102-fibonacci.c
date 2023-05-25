@@ -13,7 +13,7 @@ int main(void)
 	
 	printf("%ld, ", (long int)i);
 	printf("%ld, ", (long int)j);
-	while (n < 46)
+	while (n < 47)
 	{
 		d = j + i;
 		printf("%ld, ", (long int)d);
