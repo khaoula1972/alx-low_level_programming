@@ -6,11 +6,11 @@
  */
 int main(void)
 {
+	int n = 0;
 	long int i = 1;
 	long int j = 2;
 	long int d = 1;
-	int n = 0;
-	
+
 	printf("%ld, ", (long int)i);
 	printf("%ld, ", (long int)j);
 	while (n < 47)
