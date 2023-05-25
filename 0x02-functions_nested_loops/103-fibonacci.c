@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description :'a program that finds and prints the sum of the even-valued terms'
- * Return: Always 
+ * Description :'Find and print the sum of the even-valued terms'
+ * Return: Always 0
  */
 int main(void)
 {
