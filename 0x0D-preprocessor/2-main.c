@@ -3,7 +3,7 @@
  * main - Entry point
  * Return: always 0
  */
-int main()
+int main(void)
 {
 	printf(__FILE__);
 	printf("\n");
