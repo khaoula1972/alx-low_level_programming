@@ -23,7 +23,7 @@ dog_t *new_dog(char *name, float age, char *owner)
 		free(new_dog);
 		return (NULL);
 	}
-	owner_cp = strup(owner);
+	owner_cp = strdup(owner);
 	if (owner_cp == NULL)
 	{
 		free(name_cp);
