@@ -23,8 +23,14 @@ int main(int argc, char **argv)
 		return (2);
 	}
 	main_opcodes = (unsigned char *)main;
-	for (i = 0; i < bytes; i++)
-		printf("%02x ", main_opcodes[i]);
-	printf("\n");
+	for (i = 0; i < b; i++)
+	{
+		if (i == b - 1)
+		{
+			printf("%02hhx\n", main_opcodes[i]);
+			break;
+		}
+		printf("%02hhx ", main_opcodes[i]);
+	}
 	return (0);
 }
