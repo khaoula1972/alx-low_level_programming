@@ -22,6 +22,7 @@ typedef struct list_s
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <stddef.h>
 
 /* The fucntions */
 size_t print_list(const list_t *h);
