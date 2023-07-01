@@ -1,4 +1,4 @@
-#include "main.h"
+#include "lists.h"
 /**
  * print_list - a function that prints all the elements of a list_t list.
  * @h: a pointer to the header of the linked list
