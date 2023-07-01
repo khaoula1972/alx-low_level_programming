@@ -6,8 +6,16 @@
  */
 size_t print_list(const list_t *h)
 {
-	char *ptrnext;
-	char *value;
-	int length;
+	size_t length;
 
-	if 
+	while (h != NULL)
+	{
+		if (h->str != NULL)
+			printf("[%lu] %s\n", h->len, h->str);
+		else
+			printf("[0] (nil)\n");
+		length++;
+		h = h->next;
+	}
+	return (length);
+}
