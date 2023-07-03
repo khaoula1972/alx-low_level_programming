@@ -1,6 +1,6 @@
-# 0x12-singly_linked_lists Repository
+# 0x12-singly_linked_lists Directory
 
-Welcome to the 0x12-singly_linked_lists repository! This repository focuses on the implementation of singly linked lists using the C programming language.
+Welcome to the 0x12-singly_linked_lists directory! This directory focuses on the implementation of singly linked lists using the C programming language.
 
 ## Table of Contents
 
@@ -54,7 +54,7 @@ Please note that you may need to have a C compiler, such as GCC, installed on yo
 
 ## Contributing
 
-Contributions to this repository are always welcome. If you find any bugs or want to add new features, please follow the guidelines mentioned in the repository to submit your contributions.
+Contributions to this directory are always welcome. If you find any bugs or want to add new features, please follow the guidelines mentioned in the repository to submit your contributions.
 
 ## Use
 
