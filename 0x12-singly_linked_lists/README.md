@@ -36,17 +36,17 @@ To get started with this repository, follow these steps:
 
 1. Clone the repository by running the following command in your terminal:
    
-  - git clone https://github.com/khaoula1972/alx-low_level_programming.git
+- git clone https://github.com/khaoula1972/alx-low_level_programming.git
 
 2. Navigate to the repository directory:
    
-  - gcc -Wall -Werror -Wextra -pedantic *.c -o linked_list
+- gcc -Wall -Werror -Wextra -pedantic *.c -o linked_list
 
 Replace `*.c` with the specific files you want to compile, or use `*.asm` for assembly files.
 
 3. Run the compiled program:
    
-   - ./linked_list
+- ./linked_list
 
 Adjust the command based on the specific executable file you have generated.
 
