@@ -19,6 +19,9 @@ The alx-low_level_programming repository is organized into multiple directories,
 - [0x02-functions_nested_loops](./0x02-functions_nested_loops): Exploring functions and nested loops.
 - [0x03-debugging](./0x03-debugging): Understanding and fixing bugs in C programs.
 - [0x04-more_functions_nested_loops](./0x04-more_functions_nested_loops): Advanced functions and nested loops.
+- [0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings): Pointers, arrays, and strings in C.
+- [0x06-pointers_arrays_strings](./0x06-pointers_arrays_strings): More advanced concepts related to pointers, arrays, and strings.
+- [0x07-pointers_arrays_strings](./0x07-pointers_arrays_strings): Further exploration of pointers, arrays, and strings.
 - [0x08-recursion](./0x08-recursion): Recursion and recursive functions.
 - [0x0B-malloc_free](./0x0B-malloc_free): Dynamic memory allocation using `malloc` and `free`.
 - [0x0C-more_malloc_free](./0x0C-more_malloc_free): More on dynamic memory allocation and management.
@@ -27,6 +30,7 @@ The alx-low_level_programming repository is organized into multiple directories,
 - [0x0F-function_pointers](./0x0F-function_pointers): Function pointers and their usage.
 - [0x10-variadic_functions](./0x10-variadic_functions): Variadic functions that can accept a variable number of arguments.
 - [0x12-singly_linked_lists](./0x12-singly_linked_lists): Implementation of singly linked lists.
+
 
 ## Getting Started
 
