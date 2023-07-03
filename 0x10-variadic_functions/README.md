@@ -2,7 +2,7 @@
 
 Welcome to the `0x10-variadic_functions` directory! This directory focuses on variadic functions in the C programming language.
 
-![Variadic Functions Animation]([https://media.giphy.com/media/l2Je1BUJmMKzq/giphy.gif](https://1.bp.blogspot.com/-F5XUb19Xjko/YCVl67bctII/AAAAAAAASNA/DWY_Wo7Kk9gWFmPspkCAmCmxwNCXxXSQgCLcBGAsYHQ/w640-h360/hackerrank-variadic-functions-in-c-programing-solution.png)
+![Variadic Functions Animation]([https://media.giphy.com/media/l2Je1BUJmMKzq/giphy.gif](https://1.bp.blogspot.com/-F5XUb19Xjko/YCVl67bctII/AAAAAAAASNA/DWY_Wo7Kk9gWFmPspkCAmCmxwNCXxXSQgCLcBGAsYHQ/w640-h360/hackerrank-variadic-functions-in-c-programing-solution.png))
 
 ## Table of Contents
 
