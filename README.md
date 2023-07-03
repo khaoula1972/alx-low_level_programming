@@ -55,9 +55,9 @@ You are free to use, modify, and distribute the code.
 
 ## Plagiarism for SE Students in ALX
 
-- You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
-- You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
-- You are not allowed to publish any content of this project.
+_Reminder :_ 
+- You are tasked to come up with solutions for the tasks in ALX projects yourself to meet with the learning objectives.
+- You will not be able to meet the objectives of this program by copying and pasting someone else’s work.
 - Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
 If you're a SE ALX Student, I firstly want to congratulate you on chosing this path and I want to remind you that as a SE Student myself that copy-paste rule won't get us anywhere far in this competitive industry so please be careful and always remember : "Always do the hard work !"
