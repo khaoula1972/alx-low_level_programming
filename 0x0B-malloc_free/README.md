@@ -46,7 +46,7 @@ cd alx-low_level_programming\0x0B-malloc_free
 ``` 
 gcc -Wall -Werror -Wextra -pedantic *.c -o malloc_free
 ``` 
-Replace `*.c` with the specific files you want to compile, or use `*.asm` for assembly files.
+Replace `*.c` with the specific files you want to compile.
 
 3. Run the compiled program:
 ``` 
