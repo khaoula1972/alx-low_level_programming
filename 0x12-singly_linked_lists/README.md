@@ -2,6 +2,8 @@
 
 Welcome to the 0x12-singly_linked_lists directory! This directory focuses on the implementation of singly linked lists using the C programming language.
 
+![Singly Linked List Animation](https://media.giphy.com/media/3o85xvtI2bpHJj1uUM/giphy.gif)
+
 ## Table of Contents
 
 - [Introduction to Singly Linked Lists](#introduction-to-singly-linked-lists)
