@@ -6,6 +6,7 @@ Welcome to the alx-low_level_programming repository! This repository is dedicate
 
 - [Repository Overview](#repository-overview)
 - [Getting Started](#getting-started)
+- [Custom Projects](#custom-projects)
 - [Contributing](#contributing)
 - [License](#license)
 - [Plagiarism for SE Students in ALX](#plagiarism-for-se-students-in-alx)
@@ -48,6 +49,16 @@ cd alx-low_level_programming
 3. Explore the various directories to find exercises and examples related to different topics.
 
 Please note that each directory contains its own set of files and exercises. Feel free to navigate into any specific directory and explore the code and accompanying README files.
+
+## Custom Projects
+
+### printf
+
+The `printf` project is a custom implementation of the `printf` function in the C programming language. This project was a collaboration between myself and [Ella4040](https://github.com/Ella4040). The implementation provides similar functionality to the standard library `printf` function, allowing for formatted output to the console.
+
+The source code for the `printf` project can be found in [Ella4040's repository](https://github.com/Ella4040/printf). It includes various files, such as the main `printf` function, formatting specifiers, and helper functions.
+
+Feel free to check out the `printf` project and explore the codebase. Contributions and suggestions are always welcome!
 
 ## Contributing
 
