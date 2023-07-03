@@ -35,19 +35,19 @@ The 0x12-singly_linked_lists repository contains various files related to singly
 To get started with this repository, follow these steps:
 
 1. Clone the repository by running the following command in your terminal:
-   
+```   
 - git clone https://github.com/khaoula1972/alx-low_level_programming.git
-
+``` 
 2. Navigate to the repository directory:
-   
-- gcc -Wall -Werror -Wextra -pedantic *.c -o linked_list
-
+``` 
+gcc -Wall -Werror -Wextra -pedantic *.c -o linked_list
+``` 
 Replace `*.c` with the specific files you want to compile, or use `*.asm` for assembly files.
 
 3. Run the compiled program:
-   
-- ./linked_list
-
+``` 
+./linked_list
+``` 
 Adjust the command based on the specific executable file you have generated.
 
 Please note that you may need to have a C compiler, such as GCC, installed on your system to compile the code successfully.
