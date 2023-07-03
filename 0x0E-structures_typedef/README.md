@@ -2,7 +2,9 @@
 
 Welcome to the `0x0E-structures_typedef` directory! This directory focuses on structures and typedef in the C programming language.
 
-<img src="https://www.askamanager.org/wp-content/uploads/2020/03/Jasper.jpg" alt="Structures Typedef" width="400" height="300">
+<p align="center">
+  <img src="https://www.askamanager.org/wp-content/uploads/2020/03/Jasper.jpg" alt="Structures Typedef" width="500" style="max-width:100%;">
+</p>
 
 ## Table of Contents
 
