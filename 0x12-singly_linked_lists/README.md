@@ -43,6 +43,10 @@ To get started with this repository, follow these steps:
 git clone https://github.com/khaoula1972/alx-low_level_programming.git
 ``` 
 2. Navigate to the repository directory:
+```
+cd alx-low_level_programming\0x12-singly_linked_lists
+```
+3. Compile the codes:
 ``` 
 gcc -Wall -Werror -Wextra -pedantic *.c -o linked_list
 ``` 
