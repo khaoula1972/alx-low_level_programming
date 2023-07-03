@@ -22,28 +22,28 @@ The `0x01-variables_if_else_while` repository consists of the following files:
 
 2. `1-last_digit.c`: This file contains a program that prints the last digit of a randomly generated number and determines if it is greater than 5, zero, or less than 6 and not zero.
 
-3. `100-print_comb3.c`: This file contains a program that prints all possible different combinations of two digits.
+3. `2-print_alphabet.c`: This file contains a program that prints the lowercase alphabet using a while loop.
 
-4. `101-print_comb4.c`: This file contains a program that prints all possible different combinations of three digits.
+4. `3-print_alphabets.c`: This file contains a program that prints the lowercase and uppercase alphabets using nested while loops.
 
-5. `102-print_comb5.c`: This file contains a program that prints all possible combinations of two two-digit numbers.
+5. `4-print_alphabt.c`: This file contains a program that prints the lowercase alphabet excluding the letters 'q' and 'e'.
 
-6. `2-print_alphabet.c`: This file contains a program that prints the lowercase alphabet using a while loop.
+6. `5-print_numbers.c`: This file contains a program that prints all single-digit numbers of base 10 using a while loop.
 
-7. `3-print_alphabets.c`: This file contains a program that prints the lowercase and uppercase alphabets using nested while loops.
+7. `6-print_numberz.c`: This file contains a program that prints all single-digit numbers of base 10 using only the `putchar` function.
 
-8. `4-print_alphabt.c`: This file contains a program that prints the lowercase alphabet excluding the letters 'q' and 'e'.
+8. `7-print_tebahpla.c`: This file contains a program that prints the lowercase alphabet in reverse order using a while loop.
 
-9. `5-print_numbers.c`: This file contains a program that prints all single-digit numbers of base 10 using a while loop.
+9. `8-print_base16.c`: This file contains a program that prints all the numbers of base 16 in lowercase using a while loop.
 
-10. `6-print_numberz.c`: This file contains a program that prints all single-digit numbers of base 10 using only the `putchar` function.
+10. `9-print_comb.c`: This file contains a program that prints all possible combinations of single-digit numbers.
 
-11. `7-print_tebahpla.c`: This file contains a program that prints the lowercase alphabet in reverse order using a while loop.
+11. `100-print_comb3.c`: This file contains a program that prints all possible different combinations of two digits.
 
-12. `8-print_base16.c`: This file contains a program that prints all the numbers of base 16 in lowercase using a while loop.
+12. `101-print_comb4.c`: This file contains a program that prints all possible different combinations of three digits.
 
-13. `9-print_comb.c`: This file contains a program that prints all possible combinations of single-digit numbers.
-
+13. `102-print_comb5.c`: This file contains a program that prints all possible combinations of two two-digit numbers.
+    
 ## Getting Started
 
 To get started with this repository, follow these steps:
