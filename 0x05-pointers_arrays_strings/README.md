@@ -3,7 +3,7 @@
 Welcome to the `0x05-pointers_arrays_strings` directory! This directory contains programs written in the C programming language that focus on pointers, arrays, and strings.
 
 <p align="center">
-  <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/216/IMG_2410.JPG" alt="Holberton School" width="400" />
+  <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/216/IMG_2410.JPG" alt="Holberton School" />
 </p>
 
 ## Table of Contents
