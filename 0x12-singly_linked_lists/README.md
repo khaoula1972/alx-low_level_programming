@@ -36,7 +36,7 @@ To get started with this repository, follow these steps:
 
 1. Clone the repository by running the following command in your terminal:
 ```   
-- git clone https://github.com/khaoula1972/alx-low_level_programming.git
+git clone https://github.com/khaoula1972/alx-low_level_programming.git
 ``` 
 2. Navigate to the repository directory:
 ``` 
