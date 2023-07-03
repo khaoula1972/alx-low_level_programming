@@ -40,17 +40,17 @@ git clone https://github.com/khaoula1972/alx-low_level_programming.git
 ``` 
 2. Navigate to the repository directory:
 ```
-cd alx-low_level_programming\0x12-singly_linked_lists
+cd alx-low_level_programming\0x0B-malloc_free
 ```
 3. Compile the codes:
 ``` 
-gcc -Wall -Werror -Wextra -pedantic *.c -o linked_list
+gcc -Wall -Werror -Wextra -pedantic *.c -o malloc_free
 ``` 
 Replace `*.c` with the specific files you want to compile, or use `*.asm` for assembly files.
 
 3. Run the compiled program:
 ``` 
-./linked_list
+./malloc_free
 ``` 
 Adjust the command based on the specific executable file you have generated.
 
