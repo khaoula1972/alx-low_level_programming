@@ -8,7 +8,7 @@ Welcome to the alx-low_level_programming repository! This repository is dedicate
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
-- [Copyright - Plagiarism for SE Students in ALX](#copyright)
+- [Plagiarism for SE Students in ALX](#plagiarism-for-se-students-in-alx)
 
 ## Repository Overview
 
