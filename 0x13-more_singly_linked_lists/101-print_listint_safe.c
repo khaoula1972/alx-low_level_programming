@@ -23,10 +23,8 @@ size_t print_listint_safe(const listint_t *head)
 
 		if (current->next >= current)
 		{
-			if (current->next == loop_node)
-				break;
-			if (loop_node == NULL)
 				loop_node = current->next;
+				break;
 		}
 		current = current->next;
 	}
