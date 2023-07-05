@@ -31,7 +31,7 @@ The alx-low_level_programming repository is organized into multiple directories,
 - [0x0F-function_pointers](./0x0F-function_pointers): Function pointers and their usage.
 - [0x10-variadic_functions](./0x10-variadic_functions): Variadic functions that can accept a variable number of arguments.
 - [0x12-singly_linked_lists](./0x12-singly_linked_lists): Implementation of singly linked lists.
-
+- [0x13-more_singly_linked_lists](./0x13-more_singly_linked_lists): More operations on singly linked lists.
 
 ## Getting Started
 
