@@ -28,9 +28,7 @@ size_t print_listint_safe(const listint_t *head)
 	}
 
 	if (loop_node != NULL)
-	{
 		printf("-> [%p] %d\n", (void *)loop_node, loop_node->n);
-		length++;
-	}
+
 	return (length);
 }
