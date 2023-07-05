@@ -12,9 +12,7 @@ size_t print_listint_safe(const listint_t *head)
 	const listint_t *current = head, *loop_node = NULL;
 
 	if (head == NULL)
-	{
 		return (0);
-	}
 
 	while (current != NULL)
 	{
@@ -23,8 +21,8 @@ size_t print_listint_safe(const listint_t *head)
 
 		if (current->next >= current)
 		{
-				loop_node = current->next;
-				break;
+			loop_node = current->next;
+			break;
 		}
 		current = current->next;
 	}
