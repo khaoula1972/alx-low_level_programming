@@ -54,7 +54,7 @@ cd alx-low_level_programming\0x13-more_singly_linked_lists
 ``` 
 gcc -Wall -Werror -Wextra -pedantic *.c -o more_singly_linked_lists
 ``` 
-Replace `*.c` with the specific files you want to compile, or use `*.asm` for assembly files.
+Replace `*.c` with the specific files you want to compile.
 
 3. Run the compiled program:
 ``` 
