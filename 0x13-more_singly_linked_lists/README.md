@@ -1,6 +1,6 @@
-# 0x12-singly_linked_lists Directory
+# 0x13-more_singly_linked_lists
 
-Welcome to the 0x12-singly_linked_lists directory! This directory focuses on the implementation of singly linked lists using the C programming language.
+This directory contains C programs that demonstrate various operations and functionalities related to singly linked lists. Singly linked lists are a fundamental data structure in computer science, consisting of nodes that are connected in a linear manner. Each node contains data and a pointer to the next node in the list.
 
 <p align="center">
   <img src="https://prepinsta.com/wp-content/uploads/2020/07/Linked-Lists-in-java-meme.jpg" alt="Singly Linked List Animation">
@@ -8,31 +8,35 @@ Welcome to the 0x12-singly_linked_lists directory! This directory focuses on the
 
 ## Table of Contents
 
-- [Introduction to Singly Linked Lists](#introduction-to-singly-linked-lists)
+- [Introduction](#introduction)
 - [Repository Overview](#repository-overview)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [Use](#use)
 
-## Introduction to Singly Linked Lists
-
-A singly linked list is a linear data structure where each element, known as a node, is composed of data and a link to the next node in the sequence.
+## Introduction
+In this directory, you will find a collection of C programs that illustrate different operations on singly linked lists. These programs cover a wide range of functionalities, including printing the elements of a linked list, counting the number of elements, adding and removing nodes, calculating the sum of elements, and more. Each program is self-contained and demonstrates a specific operation or concept.
 
 ## Repository Overview
 
-The 0x12-singly_linked_lists repository contains various files related to singly linked lists, including the following key files:
+Here are the files present in this directory:
 
-1. `list_len.c`: This file includes a function that calculates the number of elements in a given singly linked list and returns the count.
-
-2. `100-first.c`: This file contains a function that is executed before the `main` function. It prints a message to the standard output.
-
-3. `101-hello_holberton.asm`: This assembly file includes a function that prints "Hello, Holberton" to the standard output.
-
-4. `2-add_node.c`: This file includes a function that adds a new node at the beginning of a singly linked list. The function takes two arguments: a pointer to the head of the list and a string to be stored in the new node.
-
-5. `3-add_node_end.c`: This file includes a function that adds a new node at the end of a singly linked list. The function takes two arguments: a pointer to the head of the list and a string to be stored in the new node.
-
-6. `4-free_list.c`: This file includes a function that frees the memory occupied by a singly linked list. It takes a pointer to the head of the list as an argument.
+- [0-print_listint.c](./0-print_listint.c): Program to print all the elements of a linked list.
+- [1-listint_len.c](./1-listint_len.c): Program to count the number of elements in a linked list.
+- [2-add_nodeint.c](./2-add_nodeint.c): Program to add a new node at the beginning of a linked list.
+- [3-add_nodeint_end.c](./3-add_nodeint_end.c): Program to add a new node at the end of a linked list.
+- [4-free_listint.c](./4-free_listint.c): Program to free the memory allocated for a linked list.
+- [5-free_listint2.c](./5-free_listint2.c): Program to free the memory allocated for a linked list, setting the head to NULL.
+- [6-pop_listint.c](./6-pop_listint.c): Program to delete the head node of a linked list and return its data.
+- [7-get_nodeint.c](./7-get_nodeint.c): Program to retrieve a node at a given index from a linked list.
+- [8-sum_listint.c](./8-sum_listint.c): Program to calculate the sum of all the elements in a linked list.
+- [9-insert_nodeint.c](./9-insert_nodeint.c): Program to insert a new node at a given position in a linked list.
+- [10-delete_nodeint.c](./10-delete_nodeint.c): Program to delete a node at a given position in a linked list.
+- [100-reverse_listint.c](./100-reverse_listint.c): Program to reverse a linked list.
+- [101-print_listint_safe.c](./101-print_listint_safe.c): Program to print all the elements of a linked list, handling loops.
+- [102-free_listint_safe.c](./102-free_listint_safe.c): Program to free the memory allocated for a linked list, handling loops.
+- [103-find_loop.c](./103-find_loop.c): Program to find if a linked list contains a loop.
+- [lists.h](./lists.h): Header file containing the structure definition for the linked list.
 
 ## Getting Started
 
@@ -44,17 +48,17 @@ git clone https://github.com/khaoula1972/alx-low_level_programming.git
 ``` 
 2. Navigate to the repository directory:
 ```
-cd alx-low_level_programming\0x12-singly_linked_lists
+cd alx-low_level_programming\0x13-more_singly_linked_lists
 ```
 3. Compile the codes:
 ``` 
-gcc -Wall -Werror -Wextra -pedantic *.c -o linked_list
+gcc -Wall -Werror -Wextra -pedantic *.c -o more_singly_linked_lists
 ``` 
 Replace `*.c` with the specific files you want to compile, or use `*.asm` for assembly files.
 
 3. Run the compiled program:
 ``` 
-./linked_list
+./more_singly_linked_lists
 ``` 
 Adjust the command based on the specific executable file you have generated.
 
