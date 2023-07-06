@@ -17,7 +17,7 @@ void print_binary(unsigned long int n)
 
 	for (i = numBits - 1; i >= 0; i--)
 	{
-		mask = 1 << i;
+		mask = 1UL << i;
 
 		if ((n & mask) != 0 || printStarted)
 		{
