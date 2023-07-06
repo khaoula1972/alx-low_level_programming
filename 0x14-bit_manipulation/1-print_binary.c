@@ -8,8 +8,8 @@ int _putchar(char c);
 void print_binary(unsigned long int n)
 {
 	int i;
-	int numBits = sizeof(unsigned int) * 8;
-	unsigned int mask;
+	int numBits = sizeof(unsigned long int) * 8;
+	unsigned long int mask;
 	int printStarted = 0;
 
 	if (n == 0)
