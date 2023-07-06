@@ -13,7 +13,7 @@ int get_bit(unsigned long int n, unsigned int index)
 	unsigned int len = _len(bin);
 	int i;
 
-	if (index >= len)
+	if (index >= len || index < 0)
 		return (-1);
 
 	i = len - 1 - index;
