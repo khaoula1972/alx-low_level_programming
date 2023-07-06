@@ -1,6 +1,4 @@
 #include "main.h"
-#include "len.c"
-#include "to_binary.c"
 /**
  * get_bit - a function that returns the value of a bit at a given index.
  * @n: the given number to search for
@@ -9,13 +7,9 @@
  */
 int get_bit(unsigned long int n, unsigned int index)
 {
-	char *bin = to_binary(n);
-	unsigned int len = _len(bin);
-	int i;
+	unsigned long int i = 1UL << index;
 
-	if (index >= len || index < 0)
+	if (index >= sizeof(unsigned long int) * 8)
 		return (-1);
-
-	i = len - 1 - index;
-	return (bin[i] - '0');
+	return ((n & i) != 0);
 }
