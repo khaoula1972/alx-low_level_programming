@@ -37,3 +37,31 @@ The `0x0E-structures_typedef` repository contains the following files:
 To get started with this repository, follow these steps:
 
 1. Clone the repository by running the following command in your terminal:
+```   
+git clone https://github.com/khaoula1972/alx-low_level_programming.git
+``` 
+2. Navigate to the repository directory:
+```
+cd alx-low_level_programming\0x0E-structures_typedef
+```
+3. Compile the codes:
+``` 
+gcc -Wall -Werror -Wextra -pedantic *.c -o structures_typedef
+``` 
+Replace `*.c` with the specific files you want to compile.
+
+3. Run the compiled program:
+``` 
+./structures_typedef
+``` 
+Adjust the command based on the specific executable file you have generated.
+
+Please note that you may need to have a C compiler, such as GCC, installed on your system to compile the code successfully.
+
+## Contributing
+
+Contributions to this directory are always welcome. If you find any bugs or want to add new features, please follow the guidelines mentioned in the repository to submit your contributions.
+
+## Use
+
+You are free to use, modify, and distribute the code.
