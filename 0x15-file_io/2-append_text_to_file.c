@@ -9,7 +9,6 @@ int append_text_to_file(const char *filename, char *text_content)
 {
 	int file;
 	ssize_t Written;
-	int permissions = S_IWUSR; /* Write permission for the file owner only */
 
 	if (filename == NULL)
 		return (-1);
