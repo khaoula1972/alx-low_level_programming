@@ -10,29 +10,35 @@
  */
 ssize_t read_textfile(const char *filename, size_t letters)
 {
-	FILE *file;
+	int file;
 	char *buffer = malloc((letters + 1) * sizeof(char));
 	ssize_t Read; /*Number of read bytes*/
 	ssize_t Written; /*Number of written bytes*/
 
 	if (filename == NULL)
+		free(buffer);
 		return (0);
 	else
 	{
-		file = fopen(filename, "r");
-		if (file == NULL)
+		file = open(filename, O_RDONLY);
+		if (file == -1)
+			return (0); /*if file can't be opened or read */
+		if (buffer == NULL)
+		{
+			close(file);
 			return (0);
-		Read = fread(buffer, sizeof(char), letters, file);
-		if (Read == 0)
+		}
+		Read = read(file, buffer, letters);
+		if (Read == -1)
 		{
 			free(buffer);
-			fclose(file);
+			close(file);
 			return (0);
 		}
 		buffer[Read] = '\0';
-		Written = printf("%s", buffer);
+		Written = write(STDOUT_FILENO, buffer, bytesRead);
 		free(buffer);
-		fclose(file);
+		close(file);
 		if (Written != Read)
 			return (0);
 		return (Written);
