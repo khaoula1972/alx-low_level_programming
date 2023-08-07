@@ -33,6 +33,7 @@ The alx-low_level_programming repository is organized into multiple directories,
 - [0x12-singly_linked_lists](./0x12-singly_linked_lists): Implementation of singly linked lists.
 - [0x13-more_singly_linked_lists](./0x13-more_singly_linked_lists): More operations on singly linked lists.
 - [0x14-bit_manipulation](./0x14-bit_manipulation): Bitwise, manipulating bits in integers.
+- [0x15-file_io](./0x15-file_io): File input and output (I/O)
 
 ## Getting Started
 
@@ -60,6 +61,11 @@ The `printf` project is a custom implementation of the `printf` function in the 
 The source code for the `printf` project can be found in [Ella4040's repository](https://github.com/Ella4040/printf). It includes various files, such as the main `printf` function, formatting specifiers, and helper functions.
 
 Feel free to check out the `printf` project and explore the codebase. Contributions and suggestions are always welcome!
+
+### simple shell
+The `Simple shell` project  is a custom command-line interface program implemented in the C programming language. This collaborative effort involved both myself and [Aziz](https://github.com/aziz-gw). The implementation provides basic shell functionality, allowing users to input commands that are then interpreted and executed by interacting with the operating system.
+
+The source code for the simple shell project can be accessed in [my repository](https://github.com/khaoula1972/simple_shell). It includes essential components, such as the main shell loop, command parsing, and execution mechanisms.
 
 ## Contributing
 
