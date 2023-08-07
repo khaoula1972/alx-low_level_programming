@@ -82,4 +82,4 @@ _Reminder :_
 - You will not be able to meet the objectives of this program by copying and pasting someone else’s work.
 - Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-If you're a SE ALX Student, I firstly want to congratulate you on chosing this path and I want to remind you that as a SE Student myself that copy-paste rule won't get us anywhere far in this competitive industry so please be careful and always remember : "Always do the hard work !"
+If you're an SE ALX Student, I want to first congratulate you for choosing this path. I'd also like to remind you that, as an SE Student myself, the copy-paste rule won't take us very far in this competitive industry. So, please be cautious and always remember: "Always do the hard work!"
