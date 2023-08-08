@@ -3,7 +3,7 @@
 Welcome to the `0x15-file_io` directory! This directory contains introductory programs written in the C programming language.
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f3/58/b6/f358b62998e8d639a62bac7f4c17d1d7.png" alt="Project Image" width="300">
+  <img src="https://i.pinimg.com/originals/f3/58/b6/f358b62998e8d639a62bac7f4c17d1d7.png" alt="Project Image" width="500">
 </div>
 
 ## Table of Contents
