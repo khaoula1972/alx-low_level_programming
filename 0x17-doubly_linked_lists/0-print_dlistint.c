@@ -10,7 +10,7 @@ size_t print_dlistint(const dlistint_t *h)
 	int number;
 	size_t i = 0;
 
-	if (h == NULL && h->next == NULL)
+	if (h == NULL)
 		return (i);
 
 	current = h;
