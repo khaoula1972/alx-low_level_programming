@@ -44,6 +44,6 @@ void hash_table_print(const hash_table_t *ht);
 void hash_table_delete(hash_table_t *ht);
 
 /* Helpful functions */
-static hash_node_t *create_node(const char *key, const char *value);
+hash_node_t *create_node(const char *key, const char *value);
 
 #endif

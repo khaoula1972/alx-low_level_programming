@@ -49,7 +49,7 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
  * Return: A pointer to the newly created node, or NULL on failure.
  */
 
-static hash_node_t *create_node(const char *key, const char *value)
+hash_node_t *create_node(const char *key, const char *value)
 {
 	hash_node_t *new_node;
 
